@@ -2,3 +2,5 @@
 scalablecapitalenv/
 scalable.db
 scalable.db.wal
+*.duckdb.*
+*.duckdb
