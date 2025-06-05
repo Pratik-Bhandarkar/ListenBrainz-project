@@ -1,2 +1,4 @@
 .env
 scalablecapitalenv/
+scalable.db
+scalable.db.wal
