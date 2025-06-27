@@ -1,2 +1,11 @@
 .env
 scalablecapitalenv/
+scalable.db
+scalable.db.wal
+*.duckdb.*
+*.duckdb
+.idea/
+.venv/
+Entity Relationship Diagram.png
+Untitled Diagram.drawio
+dataset.txt

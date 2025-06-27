@@ -1,1 +1,3 @@
-duckdb==<latest-version>
+duckdb
+pandas
+jupyter
